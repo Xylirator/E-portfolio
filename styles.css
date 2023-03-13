@@ -15,6 +15,13 @@ li {
   list-style-type: none;
 }
 
+.fa-linkedin-in, 
+.fa-github,
+.fa-file-pdf {
+font-size: 24px;
+}
+
+
 p {
   line-height: 1.5;
   font-size: 16px;
@@ -220,6 +227,7 @@ textarea:focus {
 .title {
   font-size: 120px;
   margin-bottom: 12px;
+  margin-left: -8px;
   text-align: left;
   line-height: 1;
 }
@@ -352,6 +360,11 @@ nav {
   font-size: 48px;
   margin-bottom: 60px;
 }
+
+.project {
+  margin-bottom: 135px;
+}
+
 
 .project__img {
   width: 100%;
